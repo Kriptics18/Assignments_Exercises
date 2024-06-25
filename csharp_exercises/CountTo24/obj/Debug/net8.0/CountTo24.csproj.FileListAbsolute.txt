@@ -1,0 +1,15 @@
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\CountTo24\bin\Debug\net8.0\CountTo24.exe
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\CountTo24\bin\Debug\net8.0\CountTo24.deps.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\CountTo24\bin\Debug\net8.0\CountTo24.runtimeconfig.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\CountTo24\bin\Debug\net8.0\CountTo24.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\CountTo24\bin\Debug\net8.0\CountTo24.pdb
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\CountTo24\obj\Debug\net8.0\CountTo24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\CountTo24\obj\Debug\net8.0\CountTo24.AssemblyInfoInputs.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\CountTo24\obj\Debug\net8.0\CountTo24.AssemblyInfo.cs
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\CountTo24\obj\Debug\net8.0\CountTo24.csproj.CoreCompileInputs.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\CountTo24\obj\Debug\net8.0\CountTo24.sourcelink.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\CountTo24\obj\Debug\net8.0\CountTo24.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\CountTo24\obj\Debug\net8.0\refint\CountTo24.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\CountTo24\obj\Debug\net8.0\CountTo24.pdb
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\CountTo24\obj\Debug\net8.0\CountTo24.genruntimeconfig.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\CountTo24\obj\Debug\net8.0\ref\CountTo24.dll

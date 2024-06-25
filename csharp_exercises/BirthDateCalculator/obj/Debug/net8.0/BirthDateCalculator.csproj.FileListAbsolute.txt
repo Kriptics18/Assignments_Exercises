@@ -1,0 +1,15 @@
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\BirthDateCalculator\bin\Debug\net8.0\BirthDateCalculator.exe
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\BirthDateCalculator\bin\Debug\net8.0\BirthDateCalculator.deps.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\BirthDateCalculator\bin\Debug\net8.0\BirthDateCalculator.runtimeconfig.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\BirthDateCalculator\bin\Debug\net8.0\BirthDateCalculator.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\BirthDateCalculator\bin\Debug\net8.0\BirthDateCalculator.pdb
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\BirthDateCalculator\obj\Debug\net8.0\BirthDateCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\BirthDateCalculator\obj\Debug\net8.0\BirthDateCalculator.AssemblyInfoInputs.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\BirthDateCalculator\obj\Debug\net8.0\BirthDateCalculator.AssemblyInfo.cs
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\BirthDateCalculator\obj\Debug\net8.0\BirthDateCalculator.csproj.CoreCompileInputs.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\BirthDateCalculator\obj\Debug\net8.0\BirthDateCalculator.sourcelink.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\BirthDateCalculator\obj\Debug\net8.0\BirthDateCalculator.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\BirthDateCalculator\obj\Debug\net8.0\refint\BirthDateCalculator.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\BirthDateCalculator\obj\Debug\net8.0\BirthDateCalculator.pdb
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\BirthDateCalculator\obj\Debug\net8.0\BirthDateCalculator.genruntimeconfig.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\BirthDateCalculator\obj\Debug\net8.0\ref\BirthDateCalculator.dll

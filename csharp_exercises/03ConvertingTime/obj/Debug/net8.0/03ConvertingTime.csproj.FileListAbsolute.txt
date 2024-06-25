@@ -1,0 +1,15 @@
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\03ConvertingTime\bin\Debug\net8.0\03ConvertingTime.exe
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\03ConvertingTime\bin\Debug\net8.0\03ConvertingTime.deps.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\03ConvertingTime\bin\Debug\net8.0\03ConvertingTime.runtimeconfig.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\03ConvertingTime\bin\Debug\net8.0\03ConvertingTime.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\03ConvertingTime\bin\Debug\net8.0\03ConvertingTime.pdb
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\03ConvertingTime\obj\Debug\net8.0\03ConvertingTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\03ConvertingTime\obj\Debug\net8.0\03ConvertingTime.AssemblyInfoInputs.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\03ConvertingTime\obj\Debug\net8.0\03ConvertingTime.AssemblyInfo.cs
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\03ConvertingTime\obj\Debug\net8.0\03ConvertingTime.csproj.CoreCompileInputs.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\03ConvertingTime\obj\Debug\net8.0\03ConvertingTime.sourcelink.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\03ConvertingTime\obj\Debug\net8.0\03ConvertingTime.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\03ConvertingTime\obj\Debug\net8.0\refint\03ConvertingTime.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\03ConvertingTime\obj\Debug\net8.0\03ConvertingTime.pdb
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\03ConvertingTime\obj\Debug\net8.0\03ConvertingTime.genruntimeconfig.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\03ConvertingTime\obj\Debug\net8.0\ref\03ConvertingTime.dll

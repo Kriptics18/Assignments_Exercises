@@ -1,0 +1,15 @@
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1\bin\Debug\net8.0\Assignment1.exe
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1\bin\Debug\net8.0\Assignment1.deps.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1\bin\Debug\net8.0\Assignment1.runtimeconfig.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1\bin\Debug\net8.0\Assignment1.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1\bin\Debug\net8.0\Assignment1.pdb
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1\obj\Debug\net8.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfo.cs
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1\obj\Debug\net8.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1\obj\Debug\net8.0\Assignment1.sourcelink.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1\obj\Debug\net8.0\Assignment1.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1\obj\Debug\net8.0\refint\Assignment1.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1\obj\Debug\net8.0\Assignment1.pdb
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1\obj\Debug\net8.0\Assignment1.genruntimeconfig.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1\obj\Debug\net8.0\ref\Assignment1.dll

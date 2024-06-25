@@ -1,0 +1,15 @@
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1Part2\bin\Debug\net8.0\02UnderstandingTypes.exe
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1Part2\bin\Debug\net8.0\02UnderstandingTypes.deps.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1Part2\bin\Debug\net8.0\02UnderstandingTypes.runtimeconfig.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1Part2\bin\Debug\net8.0\02UnderstandingTypes.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1Part2\bin\Debug\net8.0\02UnderstandingTypes.pdb
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1Part2\obj\Debug\net8.0\02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1Part2\obj\Debug\net8.0\02UnderstandingTypes.AssemblyInfoInputs.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1Part2\obj\Debug\net8.0\02UnderstandingTypes.AssemblyInfo.cs
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1Part2\obj\Debug\net8.0\02UnderstandingTypes.csproj.CoreCompileInputs.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1Part2\obj\Debug\net8.0\02UnderstandingTypes.sourcelink.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1Part2\obj\Debug\net8.0\02UnderstandingTypes.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1Part2\obj\Debug\net8.0\refint\02UnderstandingTypes.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1Part2\obj\Debug\net8.0\02UnderstandingTypes.pdb
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1Part2\obj\Debug\net8.0\02UnderstandingTypes.genruntimeconfig.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\Assignment1Part2\obj\Debug\net8.0\ref\02UnderstandingTypes.dll

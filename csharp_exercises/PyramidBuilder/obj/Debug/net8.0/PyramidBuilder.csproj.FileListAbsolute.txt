@@ -1,0 +1,15 @@
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\PyramidBuilder\bin\Debug\net8.0\PyramidBuilder.exe
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\PyramidBuilder\bin\Debug\net8.0\PyramidBuilder.deps.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\PyramidBuilder\bin\Debug\net8.0\PyramidBuilder.runtimeconfig.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\PyramidBuilder\bin\Debug\net8.0\PyramidBuilder.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\PyramidBuilder\bin\Debug\net8.0\PyramidBuilder.pdb
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\PyramidBuilder\obj\Debug\net8.0\PyramidBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\PyramidBuilder\obj\Debug\net8.0\PyramidBuilder.AssemblyInfoInputs.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\PyramidBuilder\obj\Debug\net8.0\PyramidBuilder.AssemblyInfo.cs
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\PyramidBuilder\obj\Debug\net8.0\PyramidBuilder.csproj.CoreCompileInputs.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\PyramidBuilder\obj\Debug\net8.0\PyramidBuilder.sourcelink.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\PyramidBuilder\obj\Debug\net8.0\PyramidBuilder.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\PyramidBuilder\obj\Debug\net8.0\refint\PyramidBuilder.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\PyramidBuilder\obj\Debug\net8.0\PyramidBuilder.pdb
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\PyramidBuilder\obj\Debug\net8.0\PyramidBuilder.genruntimeconfig.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\PyramidBuilder\obj\Debug\net8.0\ref\PyramidBuilder.dll

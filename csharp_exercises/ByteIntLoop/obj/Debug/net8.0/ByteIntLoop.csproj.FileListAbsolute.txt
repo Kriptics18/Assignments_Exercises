@@ -1,0 +1,15 @@
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\ByteIntLoop\bin\Debug\net8.0\ByteIntLoop.exe
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\ByteIntLoop\bin\Debug\net8.0\ByteIntLoop.deps.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\ByteIntLoop\bin\Debug\net8.0\ByteIntLoop.runtimeconfig.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\ByteIntLoop\bin\Debug\net8.0\ByteIntLoop.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\ByteIntLoop\bin\Debug\net8.0\ByteIntLoop.pdb
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\ByteIntLoop\obj\Debug\net8.0\ByteIntLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\ByteIntLoop\obj\Debug\net8.0\ByteIntLoop.AssemblyInfoInputs.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\ByteIntLoop\obj\Debug\net8.0\ByteIntLoop.AssemblyInfo.cs
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\ByteIntLoop\obj\Debug\net8.0\ByteIntLoop.csproj.CoreCompileInputs.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\ByteIntLoop\obj\Debug\net8.0\ByteIntLoop.sourcelink.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\ByteIntLoop\obj\Debug\net8.0\ByteIntLoop.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\ByteIntLoop\obj\Debug\net8.0\refint\ByteIntLoop.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\ByteIntLoop\obj\Debug\net8.0\ByteIntLoop.pdb
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\ByteIntLoop\obj\Debug\net8.0\ByteIntLoop.genruntimeconfig.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\ByteIntLoop\obj\Debug\net8.0\ref\ByteIntLoop.dll

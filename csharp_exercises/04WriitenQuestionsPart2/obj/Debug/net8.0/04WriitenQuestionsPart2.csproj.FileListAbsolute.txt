@@ -1,0 +1,15 @@
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\04WriitenQuestionsPart2\bin\Debug\net8.0\04WriitenQuestionsPart2.exe
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\04WriitenQuestionsPart2\bin\Debug\net8.0\04WriitenQuestionsPart2.deps.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\04WriitenQuestionsPart2\bin\Debug\net8.0\04WriitenQuestionsPart2.runtimeconfig.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\04WriitenQuestionsPart2\bin\Debug\net8.0\04WriitenQuestionsPart2.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\04WriitenQuestionsPart2\bin\Debug\net8.0\04WriitenQuestionsPart2.pdb
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\04WriitenQuestionsPart2\obj\Debug\net8.0\04WriitenQuestionsPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\04WriitenQuestionsPart2\obj\Debug\net8.0\04WriitenQuestionsPart2.AssemblyInfoInputs.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\04WriitenQuestionsPart2\obj\Debug\net8.0\04WriitenQuestionsPart2.AssemblyInfo.cs
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\04WriitenQuestionsPart2\obj\Debug\net8.0\04WriitenQuestionsPart2.csproj.CoreCompileInputs.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\04WriitenQuestionsPart2\obj\Debug\net8.0\04WriitenQuestionsPart2.sourcelink.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\04WriitenQuestionsPart2\obj\Debug\net8.0\04WriitenQuestionsPart2.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\04WriitenQuestionsPart2\obj\Debug\net8.0\refint\04WriitenQuestionsPart2.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\04WriitenQuestionsPart2\obj\Debug\net8.0\04WriitenQuestionsPart2.pdb
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\04WriitenQuestionsPart2\obj\Debug\net8.0\04WriitenQuestionsPart2.genruntimeconfig.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises\04WriitenQuestionsPart2\obj\Debug\net8.0\ref\04WriitenQuestionsPart2.dll
