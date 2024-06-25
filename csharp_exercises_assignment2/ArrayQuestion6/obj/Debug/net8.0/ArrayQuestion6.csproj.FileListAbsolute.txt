@@ -1,0 +1,15 @@
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\ArrayQuestion6\bin\Debug\net8.0\ArrayQuestion6.exe
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\ArrayQuestion6\bin\Debug\net8.0\ArrayQuestion6.deps.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\ArrayQuestion6\bin\Debug\net8.0\ArrayQuestion6.runtimeconfig.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\ArrayQuestion6\bin\Debug\net8.0\ArrayQuestion6.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\ArrayQuestion6\bin\Debug\net8.0\ArrayQuestion6.pdb
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\ArrayQuestion6\obj\Debug\net8.0\ArrayQuestion6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\ArrayQuestion6\obj\Debug\net8.0\ArrayQuestion6.AssemblyInfoInputs.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\ArrayQuestion6\obj\Debug\net8.0\ArrayQuestion6.AssemblyInfo.cs
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\ArrayQuestion6\obj\Debug\net8.0\ArrayQuestion6.csproj.CoreCompileInputs.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\ArrayQuestion6\obj\Debug\net8.0\ArrayQuestion6.sourcelink.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\ArrayQuestion6\obj\Debug\net8.0\ArrayQuestion6.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\ArrayQuestion6\obj\Debug\net8.0\refint\ArrayQuestion6.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\ArrayQuestion6\obj\Debug\net8.0\ArrayQuestion6.pdb
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\ArrayQuestion6\obj\Debug\net8.0\ArrayQuestion6.genruntimeconfig.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\ArrayQuestion6\obj\Debug\net8.0\ref\ArrayQuestion6.dll

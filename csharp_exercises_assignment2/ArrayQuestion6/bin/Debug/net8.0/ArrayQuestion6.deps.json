@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ArrayQuestion6/1.0.0": {
+        "runtime": {
+          "ArrayQuestion6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArrayQuestion6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

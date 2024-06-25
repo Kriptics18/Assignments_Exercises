@@ -1,0 +1,15 @@
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\StringQuestion3\bin\Debug\net8.0\StringQuestion3.exe
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\StringQuestion3\bin\Debug\net8.0\StringQuestion3.deps.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\StringQuestion3\bin\Debug\net8.0\StringQuestion3.runtimeconfig.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\StringQuestion3\bin\Debug\net8.0\StringQuestion3.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\StringQuestion3\bin\Debug\net8.0\StringQuestion3.pdb
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\StringQuestion3\obj\Debug\net8.0\StringQuestion3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\StringQuestion3\obj\Debug\net8.0\StringQuestion3.AssemblyInfoInputs.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\StringQuestion3\obj\Debug\net8.0\StringQuestion3.AssemblyInfo.cs
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\StringQuestion3\obj\Debug\net8.0\StringQuestion3.csproj.CoreCompileInputs.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\StringQuestion3\obj\Debug\net8.0\StringQuestion3.sourcelink.json
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\StringQuestion3\obj\Debug\net8.0\StringQuestion3.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\StringQuestion3\obj\Debug\net8.0\refint\StringQuestion3.dll
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\StringQuestion3\obj\Debug\net8.0\StringQuestion3.pdb
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\StringQuestion3\obj\Debug\net8.0\StringQuestion3.genruntimeconfig.cache
+C:\Users\akshi\OneDrive\Desktop\prep_job_search\interviews\antra\git_assn\Assignments_Exercises\csharp_exercises_assignment2\StringQuestion3\obj\Debug\net8.0\ref\StringQuestion3.dll
