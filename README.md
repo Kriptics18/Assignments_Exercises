@@ -1,4 +1,4 @@
-# Assignments_Exercises
+# Assignments_Exercises for C#
 
 For csharp_assignments, the format Assignmentx where x is the number of the assignment is used. For example, Assignment1 is the first assignment.
 
