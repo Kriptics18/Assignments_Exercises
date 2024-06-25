@@ -8,31 +8,31 @@ Assignments have been broken up in several projects. This is to ensure that the 
 
  The projects are as follows:
 
-Assignment1
-----Assignment1 (Written Questions Part 1)
-----02UnderstandingTypes
-----03ConvertingTime
-----04WrittenQuestionsPart2
-----FizzBuzz
-----PrintAPyramid
-----RandomNumberGuesser
-----BirthDateCalculator
-----TimeBasedGreeting
-----CountTo24
+## Assignment1
+- Assignment1 (Written Questions Part 1)
+- 02UnderstandingTypes
+- 03ConvertingTime
+- 04WrittenQuestionsPart2
+- FizzBuzz
+- PrintAPyramid
+- RandomNumberGuesser
+- BirthDateCalculator
+- TimeBasedGreeting
+- CountTo24
 
-Assignment2
-----Assignment2 (Written Questions)
-----ArrayQuestion1
-----ArrayQuestion2
-----ArrayQuestion3
-----ArrayQuestion4
-----ArrayQuestion5
-----ArrayQuestion6
-----StringQuestion1
-----StringQuestion2
-----StringQuestion3
-----StringQuestion4
-----StringQuestion5
+## Assignment2
+- Assignment2 (Written Questions)
+- ArrayQuestion1
+- ArrayQuestion2
+- ArrayQuestion3
+- ArrayQuestion4
+- ArrayQuestion5
+- ArrayQuestion6
+- StringQuestion1
+- StringQuestion2
+- StringQuestion3
+- StringQuestion4
+- StringQuestion5
 
 
 
