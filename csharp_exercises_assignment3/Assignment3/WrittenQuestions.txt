@@ -1,0 +1,119 @@
+1. What are the six combinations of access modifier keywords and what do they do?
+
+The public modifier allows a member to be accessed from any other code, both within the same assembly and from other assemblies. It is ideal for members that need to be universally accessible throughout an application or library
+The private modifier restricts access to the containing class or struct only, hiding members from any external access. It ensures internal implementation details remain private and secure.
+The protected modifier allows access within the containing class and derived classes. It is used for members that should be accessible by subclasses but not by other classes.
+The internal modifier allows access only within the same assembly, preventing external assembly access. It is useful for components that should not be exposed outside their assembly.
+The protected internal modifier combines protected and internal, allowing access within the same assembly or from derived classes in any assembly. It provides a flexible access level for class hierarchies
+The private protected modifier allows access within the containing class and derived classes, but only within the same assembly. It combines private and protected with an assembly scope, ensuring restricted access within a single assembly.
+
+
+2. What is the difference between the static, const, and readonly keywords when applied to a type member?
+
+The static keyword in C# indicates that the member belongs to the type itself rather than to a specific instance of the type. This means that there is only one copy of the static member, shared among all instances of the type. Static members can be accessed using the type name rather than an instance, for example, ClassName.StaticMember.
+The const keyword in C# is used to declare a constant value that cannot be changed after initialization. Constants are implicitly static and must be initialized with a value at the time of declaration. They are typically used for values that are known at compile time and do not change during the program's execution.
+The readonly keyword in C# is used to declare a member that can only be assigned a value at the time of declaration or within the constructor of the containing type. Unlike constants, readonly members can have different values for each instance of the type and are not required to be initialized with a value at the time of declaration. Readonly members are useful for values that are known at runtime but should not be changed after initialization.
+
+3. What does a constructor do?
+
+A constructor in C# is a special method that is automatically called when an instance of a class is created. It is used to initialize the newly created object and set its initial state. Constructors can have parameters to allow for customization of the object's initialization, and can be overloaded to provide multiple ways to create instances of the class. Constructors can also call other constructors within the same class using the this keyword to reuse initialization logic.
+
+4. Why is the partial keyword useful?
+
+The partial keyword in C# allows a class, struct, interface, or method to be defined in multiple files within the same project. 
+This can be useful for organizing large codebases, enabling multiple developers to work on different parts of a class or struct simultaneously without conflicts. 
+Partial classes and structs can contain different members in each file, and the compiler combines them into a single type definition at compile time. 
+This can improve code readability, maintainability, and collaboration in complex projects.
+
+5. What is a tuple?
+
+A tuple in C# is a data structure that can hold multiple values of different types in a single object without creating a custom class or struct. They can also be used for custom return values from methods where two or more types of items may need to be returned from a method. 
+Tuples in C# can be created using the System.ValueTuple type. 
+Since tuples can also use named elements, they can be a more flexible alternative to traditional data structures like arrays or lists when working with multiple values. Moreover, they closely mirror JSON objects in JavaScript, making them a useful tool for interop between C# and JavaScript code.
+
+6. What does the C# record keyword do?
+
+The record keyword in C# is used to define a data structure that represents an immutable value type. Records are similar to classes or structs, but they are designed for data transfer and immutability, making them ideal for representing data objects that do not change over time.
+Records automatically generate equality members, such as Equals, GetHashCode, and ToString, based on their properties, making them easier to work with in comparison operations. They also provide a concise syntax for defining properties and constructors, reducing boilerplate code and improving readability.
+
+7. What does overloading and overriding mean?
+
+Overloading in C# refers to the ability to define multiple methods or constructors with the same name within a class or struct, but with different parameter lists. This allows for different behaviors or functionality based on the arguments passed to the method. Overloaded methods are distinguished by their parameter types, number, or order, enabling the compiler to select the appropriate method based on the arguments provided.
+Overriding in C# refers to the ability to provide a new implementation for a method or property defined in a base class. This allows derived classes to customize or extend the behavior of inherited members, providing polymorphic behavior. Overriding methods must have the same signature as the base class method, and the base class method must be marked as virtual or abstract to allow for overriding.
+
+8. What is the difference between a field and a property?
+
+A field in C# is a variable that is declared within a class or struct to store data. Fields are typically private and accessed directly within the containing type, providing internal state for the object. Fields do not have any additional logic or validation associated with them and are used to store raw data values.
+A property in C# is a member of a class or struct that provides a way to read, write, or compute the value of a private field. Properties encapsulate the access to fields, allowing for validation, calculations, or side effects to be performed when getting or setting the property value. Properties can have different access modifiers, such as public or private, and can be used to expose or control access to internal state.
+
+9. How do you make a method parameter optional?
+
+In C#, method parameters can be made optional by providing a default value for the parameter in the method signature.
+For example, the following method has an optional parameter with a default value of 10:
+void ExampleMethod(int optionalParameter = 10) {
+	// Method implementation
+}
+When calling the method, the optional parameter can be omitted, and the default value will be used:
+ExampleMethod(); // Uses default value of 10
+ExampleMethod(20); // Uses specified value of 20
+
+10. What is an interface and how is it different from abstract class?
+
+An interface in C# is a contract that defines a set of members that a class or struct must implement. Interfaces can contain methods, properties, events, and indexers, but they do not provide any implementation details. Classes or structs that implement an interface must provide concrete implementations for all members defined in the interface, ensuring a consistent API across different types.
+An abstract class in C# is a class that cannot be instantiated directly and may contain abstract members that must be implemented by derived classes. Abstract classes can also contain concrete members with default implementations, providing a mix of abstract and concrete functionality. Abstract classes can be used to define a common base class for related types, while interfaces are used to define common behavior or contracts that can be implemented by unrelated types.
+Therefore, the main difference between an interface and an abstract class is that an interface defines a contract for behavior, while an abstract class provides a partial implementation with the option for subclasses to override or extend the behavior.
+
+11. What accessibility level are members of an interface?
+
+In C#, members of an interface are implicitly public and cannot have any access modifiers specified. This means that all members of an interface are accessible from any code that implements the interface, regardless of the access level of the implementing class. Interfaces define a contract for behavior that must be implemented by classes or structs, and the members of the interface are required to be public to ensure consistent access across different types.
+
+12. True/False. Polymorphism allows derived classes to provide different implementations
+of the same method.
+
+True
+
+13. True/False. The override keyword is used to indicate that a method in a derived class is
+providing its own implementation of a method.
+
+True
+
+14. True/False. The new keyword is used to indicate that a method in a derived class is
+providing its own implementation of a method
+
+False
+
+15. True/False. Abstract methods can be used in a normal (non-abstract) class.
+
+False
+
+16. True/False. Normal (non-abstract) methods can be used in an abstract class.
+
+True
+
+17. True/False. Derived classes can override methods that were virtual in the base class.
+
+True
+
+18. True/False. Derived classes can override methods that were abstract in the base class.
+
+True
+
+19. True/False. In a derived class, you can override a method that was neither virtual nor abstract in the base class.
+
+False
+
+20. True/False. A class that implements an interface does not have to provide an implementation for all of the members of the interface.
+
+False
+
+21. True/False. A class that implements an interface is allowed to have other members that aren’t defined in the interface.
+
+True
+
+22. True/False. A class can have more than one base class.
+
+False
+
+23. True/False. A class can implement more than one interface
+
+True
