@@ -41,12 +41,12 @@ Assignments have been broken up in several projects. This is to ensure that the 
 - OOPQuestion1 (Main() method inside)
 - OOPQuestion2345 - These are all in the same .cs file   (Main() method inside)
 
-#### Assn3 - OOPQuestion6
+    #### Assn3 - OOPQuestion6
 - OOPQuestion6 (Main() method inside)
 - IQuestion6 which contains all the interfaces
 - Course, Department, Instructor, Person, Student - created classes from specification
 
-#### Assn3 - OOPQuestion7
+    #### Assn3 - OOPQuestion7
 - OOPQuestion7 (Main() method inside)
 - Color
 - Ball
