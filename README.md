@@ -34,6 +34,23 @@ Assignments have been broken up in several projects. This is to ensure that the 
 - StringQuestion4
 - StringQuestion5
 
+## Assignment3
+- WrittenQuestions as a txt
+- CodingQuestion1_ArrayReverser (Main() method inside)
+- CodingQuestion2_Fibbonacci (Main() method inside)
+- OOPQuestion1 (Main() method inside)
+- OOPQuestion2345 - These are all in the same .cs file   (Main() method inside)
+
+#### Assn3 - OOPQuestion6
+- OOPQuestion6 (Main() method inside)
+- IQuestion6 which contains all the interfaces
+- Course, Department, Instructor, Person, Student - created classes from specification
+
+#### Assn3 - OOPQuestion7
+- OOPQuestion7 (Main() method inside)
+- Color
+- Ball
+
 
 
 
