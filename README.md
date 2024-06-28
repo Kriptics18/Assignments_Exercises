@@ -51,6 +51,11 @@ Assignments have been broken up in several projects. This is to ensure that the 
 - Color
 - Ball
 
+## Assignment4
+- WrittenQuestions as a txt
+- CodingQuestion1 (Custom Generic Stack built on the inbuilt List class)
+- CodingQuestion2 (Custom Generic List built on an array)
+- CodingQuestion3 (Custom Creating interfaces and classes for Entity and Repository)
 
 
 

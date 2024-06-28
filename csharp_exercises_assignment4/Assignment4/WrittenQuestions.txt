@@ -1,0 +1,26 @@
+1.  Generics address the problem of code redundancy and type safety. Without generics, you would need to write separate versions of a class or method to handle different data types, leading to code duplication. 
+	Generics allow you to define a class or method with a placeholder for the data type, which can then be specified when the class or method is instantiated or called. This ensures type safety by allowing the compiler to catch type errors at compile time and reduces the need for type casting.
+
+2.  List<string> stringList = new List<string>();
+
+3.  The Dictionary class has two generic type parameters: TKey and TValue
+
+4.  False
+
+5.  The method Add() is used to add elements to a List<T> collection.
+	The syntax is : stringList.Add(element);
+
+6.  The methods Remove() and RemoveAt() is used to remove elements from a List<T> collection.
+	The syntax is : stringList.Remove(element);    OR    stringList.RemoveAt(index);
+
+7.  You indicate that a class has a generic type parameter by specifying the type parameter in angle brackets after the class name.
+
+	For example, a generic class with a type parameter T would be declared as follows:
+	public class MyClass<T> { ... }
+
+8.  False
+
+9.  True
+
+10. True
+	
