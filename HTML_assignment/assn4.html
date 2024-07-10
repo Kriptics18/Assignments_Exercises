@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Complex Table</title>
+    <style>
+        .top-left {
+            text-align: left;
+            vertical-align: top;
+            height: 100px;
+            width: 100px;
+            background: linear-gradient(to bottom, lightgray 50%, darkgray 50%);
+        }
+        .top-right {
+            text-align: right;
+            vertical-align: top;
+            height: 100px;
+            width: 100px;
+            background: linear-gradient(to bottom, lightgray 50%, darkgray 50%);
+        }
+        .top-middle {
+            text-align: center;
+            vertical-align: top;
+            height: 100px;
+            width: 100px;
+            background: linear-gradient(to bottom, lightgray 50%, darkgray 50%);
+        }
+        .center-left {
+            text-align: left;
+            vertical-align: middle;
+            height: 100px;
+            width: 100px;
+            background: linear-gradient(to bottom, lightgray 50%, darkgray 50%);
+        }
+        .center-right {
+            text-align: right;
+            vertical-align: middle;
+            height: 100px;
+            width: 100px;
+            background: linear-gradient(to bottom, lightgray 50%, darkgray 50%);
+        }
+        .center-middle {
+            text-align: center;
+            vertical-align: middle;
+            height: 100px;
+            width: 100px;
+        }
+        .bottom-left {
+            text-align: left;
+            vertical-align: bottom;
+            height: 100px;
+            width: 100px;
+            background: linear-gradient(to bottom, lightgray 50%, darkgray 50%);
+        }
+        .bottom-right {
+            text-align: right;
+            vertical-align: bottom;
+            height: 100px;
+            width: 100px;
+            background: linear-gradient(to bottom, lightgray 50%, darkgray 50%);
+        }
+        .bottom-middle {
+            text-align: center;
+            vertical-align: bottom;
+            height: 100px;
+            width: 100px;
+            background: linear-gradient(to bottom, lightgray 50%, darkgray 50%);
+        }
+        .center {
+            text-align: center;
+            vertical-align: middle;
+            background: linear-gradient(to bottom, lightgray 50%, darkgray 50%);
+        }
+        #antra-main {
+            background: pink;
+        }
+    </style>
+</head>
+<body>
+    <table border="1" cellpadding="10">
+        <tr>
+            <td colspan="4" class="center-middle" id="antra-main"><h1>Antra LIFE</h1></td>
+        </tr>
+        <tr>
+            <td colspan="2" class="top-left">Google</td>
+            <td colspan="2" class="top-right">GitHub</td>
+        </tr>
+        <tr>
+            <td class="top-middle">FB</td>
+            <td class="center-left">GMail</td>
+            <td class="bottom-middle">YouTube</td>
+            <td class="center-left">2048</td>
+            
+        </tr>
+        <tr>
+            <td class="bottom-right">Food</td>
+            <td colspan="2" class="bottom-left">Game</td>
+            <td class="center-middle">
+                <table border="1" cellpadding="10">
+                    <tr>
+                        <td class="center">Social Life</td>
+                    </tr>
+                    <tr>
+                        <td class="center">Sleep</td>
+                    </tr>
+                </table>
+            </td>
+            
+        </tr>
+        <tr>
+            <td colspan="3" class="center-right">Beer ></td>
+            <td class="center-left">WC</td>
+        </tr>
+    </table>
+</body>
+</html>
