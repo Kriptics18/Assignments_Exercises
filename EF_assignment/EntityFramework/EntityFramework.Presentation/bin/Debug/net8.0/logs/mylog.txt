@@ -1,0 +1,51 @@
+2024-07-11 14:36:09.754 -05:00 [INF] Application Started
+2024-07-11 14:36:09.774 -05:00 [DBG] This is a debug message
+2024-07-11 14:37:47.723 -05:00 [INF] Application Started
+2024-07-11 14:37:47.743 -05:00 [DBG] This is a debug message
+2024-07-11 14:37:47.743 -05:00 [WRN] An unexpeted warning occured
+2024-07-11 14:37:47.743 -05:00 [ERR] An error occured while processing
+2024-07-11 14:37:47.743 -05:00 [FTL] A fatal error has occured
+2024-07-11 14:37:57.145 -05:00 [INF] Application Started
+2024-07-11 14:37:57.264 -05:00 [DBG] This is a debug message
+2024-07-11 14:37:57.264 -05:00 [WRN] An unexpeted warning occured
+2024-07-11 14:37:57.264 -05:00 [ERR] An error occured while processing
+2024-07-11 14:37:57.264 -05:00 [FTL] A fatal error has occured
+2024-07-11 14:40:00.182 -05:00 [INF] Application Started
+2024-07-11 14:40:00.202 -05:00 [DBG] This is a debug message
+2024-07-11 14:40:00.849 -05:00 [INF] GetAll employees method has been called
+2024-07-12 08:45:00.823 -04:00 [INF] Application Started
+2024-07-12 08:45:00.863 -04:00 [DBG] This is a debug message
+2024-07-12 08:45:15.840 -04:00 [ERR] Invalid operation
+2024-07-12 08:53:04.209 -04:00 [INF] Application Started
+2024-07-12 08:53:04.351 -04:00 [DBG] This is a debug message
+2024-07-12 08:53:35.875 -04:00 [INF] Application Started
+2024-07-12 08:53:35.911 -04:00 [DBG] This is a debug message
+2024-07-12 08:53:48.399 -04:00 [ERR] Invalid operation
+2024-07-12 08:59:30.619 -04:00 [INF] Application Started
+2024-07-12 08:59:30.651 -04:00 [DBG] This is a debug message
+2024-07-12 08:59:43.447 -04:00 [ERR] Invalid operation
+2024-07-12 09:00:18.371 -04:00 [INF] Application Started
+2024-07-12 09:00:18.410 -04:00 [DBG] This is a debug message
+2024-07-12 09:00:31.445 -04:00 [ERR] Invalid operation
+2024-07-12 09:01:32.948 -04:00 [INF] Application Started
+2024-07-12 09:01:32.984 -04:00 [DBG] This is a debug message
+2024-07-12 09:40:44.668 -04:00 [INF] Application Started
+2024-07-12 09:40:44.694 -04:00 [DBG] This is a debug message
+2024-07-12 09:40:47.261 -04:00 [INF] GetAll employees method has been called
+2024-07-12 09:40:47.352 -04:00 [INF] GetAll departments method has been called
+2024-07-12 09:40:47.360 -04:00 [INF] GetAll departments method has been called
+2024-07-12 09:41:02.702 -04:00 [INF] Department has been added
+2024-07-12 09:41:02.999 -04:00 [INF] GetAll departments method has been called
+2024-07-12 09:41:14.373 -04:00 [INF] Department has been added
+2024-07-12 09:41:14.381 -04:00 [INF] GetAll departments method has been called
+2024-07-12 09:46:56.290 -04:00 [INF] Application Started
+2024-07-12 09:46:56.322 -04:00 [DBG] This is a debug message
+2024-07-12 09:48:35.580 -04:00 [INF] Application Started
+2024-07-12 09:48:35.604 -04:00 [DBG] This is a debug message
+2024-07-12 09:48:37.744 -04:00 [INF] GetAll employees method has been called
+2024-07-12 09:48:37.856 -04:00 [INF] GetAll departments method has been called
+2024-07-12 09:48:37.862 -04:00 [INF] GetAll departments method has been called
+2024-07-12 09:48:52.691 -04:00 [INF] Department has been deleted
+2024-07-12 09:48:52.819 -04:00 [INF] GetAll departments method has been called
+2024-07-12 09:48:57.391 -04:00 [INF] Department has been deleted
+2024-07-12 09:48:57.399 -04:00 [INF] GetAll departments method has been called
