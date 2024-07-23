@@ -1,0 +1,12 @@
+﻿@model IEnumerable<ApplicationCore.Entities.Genres>
+
+<form id="genre-form" method="get" asp-controller="Movies" asp-action="MoviesByGenre">
+    <select id="genre-dropdown" name="id" class="form-control" onchange="location.href=this.value;">
+        <option value="" disabled selected>Select Genre</option>
+        @foreach (var genre in Model) {
+            <option value="@Url.Action("MoviesByGenre", "Movies", new { id = genre.Id, pageNumber = 1, pageSize = 30 })">@genre.Name</option>
+        }
+    </select>
+    <input type="hidden" name="pageSize" value="30" />
+    <input type="hidden" name="pageNumber" value="1" />
+</form>

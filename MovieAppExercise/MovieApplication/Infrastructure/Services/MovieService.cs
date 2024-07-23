@@ -30,5 +30,9 @@ namespace Infrastructure.Services {
             return await _movieRepository.GetMovieDetailsAsync(id);
         }
 
+        public async Task<PaginatedResultSet<Movies>> GetMoviesByGenreAsync(int genreId, int pageSize, int pageNumber) {
+            return await _movieRepository.GetMoviesByGenreAsync(genreId, pageSize, pageNumber);
+        }
+
     }
 }

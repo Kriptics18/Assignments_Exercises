@@ -13,5 +13,7 @@ namespace ApplicationCore.Contracts.Services {
 
         Task<Movies> GetMovieDetailsAsync(int id);
 
+        Task<PaginatedResultSet<Movies>> GetMoviesByGenreAsync(int genreId, int pageSize, int pageNumber);
+
     }
 }

@@ -1,6 +1,10 @@
-﻿@model ApplicationCore.Models.MovieCardModel
+﻿@model ApplicationCore.Entities.Movies
 
-<div class="movie-card">
-    <img src="@Model.PosterUrl" alt="@Model.Title" />
-    <h3>@Model.Title</h3>
+<div class="card">
+    <img class="card-img-top" src="@Model.PosterUrl" alt="@Model.Title">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Title</h5>
+        <p class="card-text">@Model.Overview</p>
+        <a href="@Url.Action("Details", "Movies", new { id = Model.Id })" class="btn btn-primary">More Details</a>
+    </div>
 </div>

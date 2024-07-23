@@ -15,13 +15,14 @@ namespace MovieWebApp {
     public class Startup {
         public Startup(IConfiguration configuration) {
             Configuration = configuration;
-            Console.WriteLine("Startup constructor executed"); // Add logging
+            Console.WriteLine("Startup constructor executed");
         }
 
         public IConfiguration Configuration { get; }
 
         public void ConfigureServices(IServiceCollection services) {
             services.AddControllersWithViews();
+            services.AddLogging();
 
             services.AddDbContext<MovieDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
@@ -30,8 +31,10 @@ namespace MovieWebApp {
 
             services.AddScoped<IMovieRepository, MovieRepository>();
             services.AddScoped<ICastRepository, CastRepository>();
+            services.AddScoped<IGenreRepository, GenreRepository>();
             services.AddScoped<IMovieService, MovieService>();
             services.AddScoped<ICastService, CastService>();
+            services.AddScoped<IGenreService, GenreService>();
 
             Console.WriteLine("ConfigureServices executed"); // Add logging
         }
